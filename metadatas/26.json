@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000026"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Coyote"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Elite"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/coyote/0000026_coyote_elite.png",
+  "name": "Coyote Elite"
+}

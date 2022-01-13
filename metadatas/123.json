@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000123"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/tiger/0000123_tiger_captain.png",
+  "name": "Tiger Captain"
+}

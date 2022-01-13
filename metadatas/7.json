@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000007"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Tortoise"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Member"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/tortoise/0000007_tortoise_member.png",
+  "name": "Tortoise Member"
+}

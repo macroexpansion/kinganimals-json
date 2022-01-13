@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000063"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Hog"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/hog/0000063_hog_captain.png",
+  "name": "Hog Captain"
+}

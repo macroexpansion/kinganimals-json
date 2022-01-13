@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000069"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Cheetal"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/cheetal/0000069_cheetal_captain.png",
+  "name": "Cheetal Captain"
+}

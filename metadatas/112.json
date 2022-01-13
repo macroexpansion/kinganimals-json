@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000112"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Bear"
+    },
+    {
+      "trait_type": "Name",
+      "value": "General"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/bear/0000112_bear_general.png",
+  "name": "Bear General"
+}

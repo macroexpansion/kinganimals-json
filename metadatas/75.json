@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000075"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Hyenas"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/hyenas/0000075_hyenas_captain.png",
+  "name": "Hyenas Captain"
+}

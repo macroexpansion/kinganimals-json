@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000100"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Buffalo"
+    },
+    {
+      "trait_type": "Name",
+      "value": "General"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/buffalo/0000100_buffalo_general.png",
+  "name": "Buffalo General"
+}

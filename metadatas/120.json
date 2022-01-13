@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000120"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Lion"
+    },
+    {
+      "trait_type": "Name",
+      "value": "King"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/lion/0000120_lion_king.png",
+  "name": "Lion King"
+}

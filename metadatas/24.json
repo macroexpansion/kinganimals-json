@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000024"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Ferret"
+    },
+    {
+      "trait_type": "Name",
+      "value": "King"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/ferret/0000024_ferret_king.png",
+  "name": "Ferret King"
+}

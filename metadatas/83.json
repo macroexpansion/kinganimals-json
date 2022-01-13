@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000083"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prime Minister"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/crocodile/0000083_crocodile_prime minister.png",
+  "name": "Crocodile Prime Minister"
+}

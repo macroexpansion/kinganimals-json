@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000139"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Elephant"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Member"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/elephant/0000139_elephant_member.png",
+  "name": "Elephant Member"
+}

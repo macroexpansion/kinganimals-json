@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000101"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Buffalo"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prime Minister"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/buffalo/0000101_buffalo_prime minister.png",
+  "name": "Buffalo Prime Minister"
+}

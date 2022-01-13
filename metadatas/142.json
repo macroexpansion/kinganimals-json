@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000142"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Elephant"
+    },
+    {
+      "trait_type": "Name",
+      "value": "General"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/elephant/0000142_elephant_general.png",
+  "name": "Elephant General"
+}

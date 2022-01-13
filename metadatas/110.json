@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000110"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Bear"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Elite"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/bear/0000110_bear_elite.png",
+  "name": "Bear Elite"
+}

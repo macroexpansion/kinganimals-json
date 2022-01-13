@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000042"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Name",
+      "value": "King"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/fox/0000042_fox_king.png",
+  "name": "Fox King"
+}

@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000028"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Coyote"
+    },
+    {
+      "trait_type": "Name",
+      "value": "General"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/coyote/0000028_coyote_general.png",
+  "name": "Coyote General"
+}

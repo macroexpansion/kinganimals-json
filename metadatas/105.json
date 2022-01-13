@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000105"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Giraffe"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/giraffe/0000105_giraffe_captain.png",
+  "name": "Giraffe Captain"
+}

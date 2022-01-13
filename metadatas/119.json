@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000119"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Lion"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prime Minister"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/lion/0000119_lion_prime minister.png",
+  "name": "Lion Prime Minister"
+}

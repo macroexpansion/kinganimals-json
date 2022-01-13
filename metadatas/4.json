@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000004"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Rabbit"
+    },
+    {
+      "trait_type": "Name",
+      "value": "General"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/rabbit/0000004_rabbit_general.png",
+  "name": "Rabbit General"
+}

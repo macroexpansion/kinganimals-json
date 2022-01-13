@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000035"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Warlus"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prime Minister"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/warlus/0000035_warlus_prime minister.png",
+  "name": "Warlus Prime Minister"
+}

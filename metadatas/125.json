@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000125"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prime Minister"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/tiger/0000125_tiger_prime minister.png",
+  "name": "Tiger Prime Minister"
+}

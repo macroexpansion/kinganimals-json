@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000023"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Ferret"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prime Minister"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/ferret/0000023_ferret_prime minister.png",
+  "name": "Ferret Prime Minister"
+}

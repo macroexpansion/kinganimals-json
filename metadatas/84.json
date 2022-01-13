@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000084"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Name",
+      "value": "King"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/crocodile/0000084_crocodile_king.png",
+  "name": "Crocodile King"
+}

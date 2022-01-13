@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000137"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Hippo"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prime Minister"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/hippo/0000137_hippo_prime minister.png",
+  "name": "Hippo Prime Minister"
+}

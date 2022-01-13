@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000045"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Wolf"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/wolf/0000045_wolf_captain.png",
+  "name": "Wolf Captain"
+}

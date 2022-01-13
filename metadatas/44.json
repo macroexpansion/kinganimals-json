@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000044"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Wolf"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Elite"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/wolf/0000044_wolf_elite.png",
+  "name": "Wolf Elite"
+}

@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000071"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Cheetal"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prime Minister"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/cheetal/0000071_cheetal_prime minister.png",
+  "name": "Cheetal Prime Minister"
+}

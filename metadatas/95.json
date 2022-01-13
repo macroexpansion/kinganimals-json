@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000095"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prime Minister"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carnivores"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/snake/0000095_snake_prime minister.png",
+  "name": "Snake Prime Minister"
+}

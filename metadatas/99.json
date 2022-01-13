@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "0000099"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Buffalo"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Herbivorous"
+    }
+  ],
+  "description": "King Animals NFT",
+  "image": "https://kinganimals.com/nft/buffalo/0000099_buffalo_captain.png",
+  "name": "Buffalo Captain"
+}
