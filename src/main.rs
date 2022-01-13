@@ -14,6 +14,7 @@ struct Record {
     description: String,
     image: String,
     name: String,
+    trait_name2: String
 }
 
 #[derive(Serialize, Debug)]
