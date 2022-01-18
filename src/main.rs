@@ -56,7 +56,7 @@ fn run() -> Result<()> {
                 value: record.id.clone()
             },
             Trait {
-                trait_type: "Animal".to_string(),
+                trait_type: "Item".to_string(),
                 value: record.trait_animal
             },
             Trait {
