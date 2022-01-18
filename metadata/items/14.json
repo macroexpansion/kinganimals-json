@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "ID",
+      "value": "14"
+    },
+    {
+      "trait_type": "Animal",
+      "value": ""
+    },
+    {
+      "trait_type": "Name",
+      "value": ""
+    },
+    {
+      "trait_type": "Type",
+      "value": ""
+    }
+  ],
+  "description": "King Animals NFT Items",
+  "image": "https://kinganimals.com/nft/items/demons_skin.png",
+  "name": "Demon's Skin"
+}

@@ -35,14 +35,14 @@ fn save(file_name: String, metadata: Metadata) -> Result<()> {
     /* let metadata = serde_json::to_string_pretty(&metadata)?;
     println!("{}", metadata); */
 
-    let mut writer = BufWriter::new(File::create(format!("metadatas/{}", file_name))?);
+    let mut writer = BufWriter::new(File::create(format!("metadata/items/{}", file_name))?);
     serde_json::to_writer_pretty(&mut writer, &metadata)?;
 
     Ok(())
 }
 
 fn run() -> Result<()> {
-    let file_path = format!("{}/data.csv", env!("CARGO_MANIFEST_DIR"));
+    let file_path = format!("{}/items.csv", env!("CARGO_MANIFEST_DIR"));
     let file = File::open(file_path)?;
 
     let mut reader = Reader::from_reader(file);
